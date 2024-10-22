@@ -1,7 +1,7 @@
 ![logo](https://github.com/adityarath14/adityarath14/blob/main/Python1.png)
 <h1 align="center">Hi 👋, I'm Aditya Rath</h1>
 <h3 align="center">💻💻A passionate Python Developer💻💻</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2d5fd1778db8bb1cb010748a80ae97878e832330f1da45519a4305014d57b08c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarath14&label=Profile%20views&color=0e75b6&style=flat" alt="adityarath14" /> </p>
 
