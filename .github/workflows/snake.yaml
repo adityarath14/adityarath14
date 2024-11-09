@@ -90,7 +90,7 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/adityarath14
+        uses: actions/checkout@v3
 
 
 
