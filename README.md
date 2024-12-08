@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarath14&label=Profile%20views&color=0e75b6&style=flat" alt="adityarath14" /> </p>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Django & SQL**
 
 - 📫 How to reach me **rathaditya14@gmail.com**
 
